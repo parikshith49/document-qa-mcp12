@@ -1,0 +1,37 @@
+{
+  "name": "document-qa-mcp12",
+  "version": "1.0.0",
+  "description": "A document-based Q&amp;A system using Google Drive, Qdrant, MCP Server, and Vercel AI SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parikshith49/document-qa-mcp12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parikshith49/document-qa-mcp12/issues"
+  },
+  "homepage": "https://github.com/parikshith49/document-qa-mcp12#readme",
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.15",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.15.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "google-auth-library": "^10.1.0",
+    "googleapis": "^153.0.0",
+    "langchain": "^0.3.30",
+    "openai": "^5.10.1"
+  }
+}

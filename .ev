@@ -1,0 +1,15 @@
+
+OPENAI_API_KEY=
+
+
+QDRANT_URL=https://79dda8d6-9a74-42d1-ae02-521d258037a9.us-west-1-0.aws.cloud.qdrant.io
+QDRANT_API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.3-_ppT4x5gb3eROP9Wplt4xm9gykGAhjnaaaWbYSZSc
+
+
+SERVICE_ACCOUNT_PATH=./service-account.json
+
+
+EMBEDDING_MODEL=text-embedding-ada-002
+
+GOOGLE_DRIVE_FOLDER_ID=1SOGAkQwGjb7vRyI49pmyHX79ACeCYGe_
+ 
